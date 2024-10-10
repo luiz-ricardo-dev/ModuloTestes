@@ -5548,8 +5548,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "c:\\Users\\usuario\\Desktop\\Projetos\\ModuloTestes\\Calculadora\\Calculadora.csproj": {
-              "projectPath": "c:\\Users\\usuario\\Desktop\\Projetos\\ModuloTestes\\Calculadora\\Calculadora.csproj"
+            "C:\\Users\\usuario\\Desktop\\Projetos\\ModuloTestes\\Calculadora\\Calculadora.csproj": {
+              "projectPath": "C:\\Users\\usuario\\Desktop\\Projetos\\ModuloTestes\\Calculadora\\Calculadora.csproj"
             }
           }
         }
